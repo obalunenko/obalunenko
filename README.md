@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on commercial projects at Melsoft Games
-- 🌱 I’m currently learning GCP and Kubernetes
-- 👯 I’m looking to collaborate on interesting Open Source projets written in Golang
-- 💬 Ask me about Golang, Analogue photography, bicycles 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/olegbalunenko/) [Instagram](https://www.instagram.com/oleg_balunenko/)
+- I'm currently working on commercial projects at Melsoft Games
+- I'm learning GCP and Kubernetes.
+- I'm looking for collaboration on interesting Open Source projets written in Golang.
+- Ask me about Golang, Analogue photography, bicycles.
+- How to reach me: [Linkedin](https://www.linkedin.com/in/olegbalunenko/) [Instagram](https://www.instagram.com/oleg_balunenko/)
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obalunenko&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
