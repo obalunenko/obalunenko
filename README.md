@@ -3,7 +3,7 @@
 - I'm currently working on commercial projects at Melsoft Games
 - I'm learning GCP and Kubernetes.
 - I'm looking for collaboration on interesting Open Source projets written in Golang.
-- Ask me about Golang, Analogue photography, bicycles.
+- Ask me about Golang, Analogue photography, travelling, bicycles and board games.
 - How to reach me: [Linkedin](https://www.linkedin.com/in/olegbalunenko/) [Instagram](https://www.instagram.com/oleg_balunenko/)
 
 <p align="center">
