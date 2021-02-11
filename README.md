@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - I'm currently working on commercial projects at Melsoft Games
+- Also, in my free time, I'm developing open-source libraries and tools in GO.
 - I'm learning GCP and Kubernetes.
-- I'm looking for collaboration on interesting Open Source projets written in Golang.
-- Ask me about Golang, Analogue photography, travelling, bicycles and board games.
+- I'm looking for collaboration on interesting Open Source projects written in Golang.
+- Ask me about Golang, Analogue photography, traveling, bicycles, and board games.
 - How to reach me: [Linkedin](https://www.linkedin.com/in/olegbalunenko/) [Instagram](https://www.instagram.com/oleg_balunenko/)
 
 <p align="center">
