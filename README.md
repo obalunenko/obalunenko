@@ -8,9 +8,9 @@
 - How to reach me: [Linkedin](https://www.linkedin.com/in/olegbalunenko/) [Instagram](https://www.instagram.com/oleg_balunenko/)
 
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<p>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=obalunenko&column=7&theme=gruvbox&no-frame=true" alt="obalunenko's Github Trophy" />
-</a>
+</p>
 
 ---
 
