@@ -1,6 +1,7 @@
 ### Hi there 👋 :shipit:
 
-- I'm currently working on commercial projects at Melsoft Games
+- Long-time Golang user.
+- I'm currently working on BI projects at [Melsoft Games](https://melsoft-games.com/).
 - Also, in my free time, I'm developing open-source libraries and tools in GO.
 - I'm preparing for Google Cloud certification.
 - I'm looking for collaboration on interesting Open Source projects written in Golang.
@@ -9,26 +10,18 @@
   <a href="https://www.linkedin.com/in/olegbalunenko/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/oleg_balunenko/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"></a>
   <a href="https://t.me/oleg_balunenko"><img src="https://img.shields.io/badge/Telegram--_.svg?style=social&logo=Telegram" alt="Telegram"></a>
-![GitHub followers](https://img.shields.io/github/followers/obalunenko?label=GitHub&style=social)
+[![Github](https://img.shields.io/github/followers/obalunenko?label=Follow&style=social)](https://github.com/obalunenko)
 - [My CV](https://standardresume.co/r/obalunenko)
   
 
 
 
-<p>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=obalunenko&column=7&theme=gruvbox&no-frame=true" alt="obalunenko's Github Trophy" />
-</p>
 
----
-
-<p>
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obalunenko&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
- 
- </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obalunenko&hide=html,js,css&line_height=27)
+![obalunenko's github stats](https://github-readme-stats.vercel.app/api?username=obalunenko&show_icons=true&count_private=true&line_height=27)
 
  ---
 
-<img align="center" src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif" alt ="Jumping Gopher" />
+<img width=800 align="center" src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif" alt ="Jumping Gopher" />
 
 *Gopher image by [egonelbre](https://github.com/egonelbre/)*
