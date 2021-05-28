@@ -14,22 +14,45 @@
 - [My CV](https://standardresume.co/r/obalunenko)
 
  ---
+ 
+### Languages:
+<img align="left" alt="Golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png" />
+<img align="left" alt="Bash script" width="30px" src="https://camo.githubusercontent.com/5a76ab68c90df7ecccdeac83138c8f7c62c7f3a4/687474703a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f616c65636976652f666c6174776f6b656e2f3531322f417070732d5465726d696e616c2d50632d3130342d69636f6e2e706e67" />
+<br />
+
+### Database :
+<img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+<img align="left" alt="Mysql" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" />
+<img align="left" alt="Elasticsearch" width="26px" src="https://img.icons8.com/color/48/000000/elasticsearch.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+<img align="left" alt="Redis" width="30px" src="https://img.icons8.com/color/48/000000/redis.png" />
+<br />
+
+
+<br />
+
+---
+
+<br />
 
 <a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='http://strava.com/athletes/5432209/badge' target="_clean">
   Follow me on
   <img src='http://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
 </a>
 
+<br />
+
  ---
   
-
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obalunenko&hide=html,js,css&line_height=27)
 ![obalunenko's github stats](https://github-readme-stats.vercel.app/api?username=obalunenko&show_icons=true&count_private=true&line_height=27)
 
+<br />
+
  ---
+ 
+<br />
 
 <img width=800 align="center" src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif" alt ="Jumping Gopher" />
 
