@@ -112,6 +112,4 @@
  
 <br />
 
-<img width=800 align="center" src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif" alt ="Jumping Gopher" />
-
-*Gopher image by [egonelbre](https://github.com/egonelbre/)*
+<img width=200 align="center" src="https://cdn-images-1.medium.com/max/800/1*vHUiXvBE0p0fLRwFHZuAYw.gif" alt ="Coding Gopher" />
