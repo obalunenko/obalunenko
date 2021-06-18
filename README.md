@@ -23,13 +23,20 @@
 <img align="left" alt="Bash script" width="30px" src="https://camo.githubusercontent.com/5a76ab68c90df7ecccdeac83138c8f7c62c7f3a4/687474703a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f616c65636976652f666c6174776f6b656e2f3531322f417070732d5465726d696e616c2d50632d3130342d69636f6e2e706e67" />
 <br />
 
-### Database :
+### Database:
 <img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
 <img align="left" alt="Mysql" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" />
 <img align="left" alt="Elasticsearch" width="26px" src="https://img.icons8.com/color/48/000000/elasticsearch.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
 <img align="left" alt="Redis" width="30px" src="https://img.icons8.com/color/48/000000/redis.png" />
 <br />
+
+### Message Brokers:
+<img align="left" alt="RabbitMQ" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" />
+<img align="left" alt="Kafka" width="26px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" />
+<br />
+
+
 
 ### Env:
 <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
