@@ -19,30 +19,64 @@
  ---
  
 ### Languages:
+<a href='https://golang.org/' target="_clean"> 
 <img align="left" alt="Golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png" />
+  </a>
+  
+  <a href='https://www.gnu.org/software/bash/' target="_clean"> 
 <img align="left" alt="Bash script" width="30px" src="https://camo.githubusercontent.com/5a76ab68c90df7ecccdeac83138c8f7c62c7f3a4/687474703a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f616c65636976652f666c6174776f6b656e2f3531322f417070732d5465726d696e616c2d50632d3130342d69636f6e2e706e67" />
+  </a>
 <br />
 
 ### Database:
+<a href='https://www.postgresql.org/' target="_clean"> 
 <img align="left" alt="PostgreSQL" width="26px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+  </a>
+  
+  <a href='https://www.mysql.com/' target="_clean"> 
 <img align="left" alt="Mysql" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mysql-19-1174939.png" />
+  </a>
+  
+  <a href='https://www.elastic.co/elasticsearch/' target="_clean">
 <img align="left" alt="Elasticsearch" width="26px" src="https://img.icons8.com/color/48/000000/elasticsearch.png" />
+  </a>
+  
+  <a href='https://www.mongodb.com/' target="_clean">
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+  </a>
+  
+  <a href='https://redis.io/' target="_clean">
 <img align="left" alt="Redis" width="30px" src="https://img.icons8.com/color/48/000000/redis.png" />
+  </a>
 <br />
 
 ### Message Brokers:
+<a href='https://www.rabbitmq.com/' target="_clean">
 <img align="left" alt="RabbitMQ" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/rabbitmq-logo-png-transparent.png" />
+  </a>
+  
+  <a href='https://kafka.apache.org/' target="_clean">
 <img align="left" alt="Kafka" width="26px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" />
+  </a>
 <br />
 
 
-
 ### Env:
+  <a href='https://www.docker.com/' target="_clean">
 <img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
+  </a>
+  
+  <a href='https://kubernetes.io/' target="_clean">
 <img align="left" alt="Kubernetes" width="26px" src="https://img.icons8.com/color/48/000000/kubernetes.png" />
+  </a>
+  
+  <a href='https://aws.amazon.com/' target="_clean">
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
+  </a>
+  
+  <a href='https://cloud.google.com/' target="_clean">
 <img align="left" alt="Google Cloud Platform" width="26px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
+  </a>
 <br />
 
 ---
