@@ -11,7 +11,10 @@
   <a href="https://www.instagram.com/oleg_balunenko/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"></a>
   <a href="https://t.me/oleg_balunenko"><img src="https://img.shields.io/badge/Telegram--_.svg?style=social&logo=Telegram" alt="Telegram"></a>
 [![Github](https://img.shields.io/github/followers/obalunenko?label=Follow&style=social)](https://github.com/obalunenko)
-- [My CV](https://standardresume.co/r/obalunenko)
+- <a href='https://standardresume.co/r/obalunenko' target="_clean"> 
+  My CV
+  <img src="https://img.icons8.com/officel/30/000000/open-resume.png" alt='CV' width="30px" />
+</a>
 
  ---
  
@@ -28,16 +31,20 @@
 <img align="left" alt="Redis" width="30px" src="https://img.icons8.com/color/48/000000/redis.png" />
 <br />
 
-
+### Env:
+<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/48/000000/docker.png" />
+<img align="left" alt="Kubernetes" width="26px" src="https://img.icons8.com/color/48/000000/kubernetes.png" />
+<img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
+<img align="left" alt="Google Cloud Platform" width="26px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" />
 <br />
 
 ---
 
 <br />
 
-<a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='http://strava.com/athletes/5432209/badge' target="_clean">
+<a href='http://strava.com/athletes/5432209/badge' target="_clean">
   Follow me on
-  <img src='http://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
+  <img src='http://badges.strava.com/logo-strava.png' alt='Strava' height=13 width=51 />
 </a>
 
 <br />
