@@ -2,8 +2,7 @@
 
 - I'm currently working on commercial projects at PinUp tech
 - Also, I'm developing open-source libraries and tools in GO in my free time.
-- I'm learning GCP and Kubernetes.
-- I'm looking for collaboration on interesting Open Source projects written in Golang.
+- I'm open to collaborating on interesting open-source projects written in Golang.
 - Ask me about Golang, analogue photography, travelling, bicycles, board games, tabletop RPG, and miniature painting.
 - How to reach me: [Linkedin](https://www.linkedin.com/in/olegbalunenko/) [Telegram](https://t.me/obalunenko) [Instagram](https://www.instagram.com/obalunenko/) 
 
