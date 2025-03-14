@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm currently working on commercial projects at PinUp tech
+- I'm a professional Backend Software Engineer (Golang) with experience more than 8 years.
 - Also, I'm developing open-source libraries and tools in GO in my free time.
 - I'm open to collaborating on interesting open-source projects written in Golang.
 - Ask me about Golang, analogue photography, travelling, bicycles, board games, tabletop RPG, and miniature painting.
